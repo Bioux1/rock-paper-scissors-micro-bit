@@ -11,14 +11,14 @@ Transformer deux cartes `Micro:Bit` en plateforme pour Chi-Fu-Mi.
 ## Utilisation
 
 - Exécuter le programme sur les deux ordinateurs
-- Secouer les deux cartes `Micro:Bit` SIMULTANEMENT c'est impératif, et une petite secousse suffit !
-    - Le coup de chaque joueur s'affichera sur la carte `Micro:Bit`
+- Secouer les deux cartes `Micro:Bit` de préférence simultanément, et une petite secousse suffit !
+    - Le coup de chaque joueur s'affichera sur les cartes `Micro:Bit`
     - Puis le résultat de la manche
     - Et enfin le score de chaque joueur
     - *Il y a un delai de 3 secondes entre chaque affichage sur la carte*
 - Appuyer sur les boutons A et B de la carte pour rénitialiser la partie
 
-## Information supplémentaires
+## Informations supplémentaires
 
 - Ce projet était un projet scolaire et le code peut ne pas être optimisé.
 - S'il y a une erreur dans le code, veuillez me le faire savoir.
