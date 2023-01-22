@@ -22,4 +22,4 @@ Transform two `Micro:bit` cards into a platform for rock paper scissors.
 
 - This was made for a school project and code might not be optimized.
 - If there is an error in the code please let me know.
-- A french version of the code with comments see this [link](), french readme : [link]()
+- A french version of the code with comments see this [link](https://github.com/Bioux1/rock-paper-scissors-micro-bit/tree/main/fran%C3%A7ais), french readme : [link](https://github.com/Bioux1/rock-paper-scissors-micro-bit/blob/main/fran%C3%A7ais/readme-fran%C3%A7ais.md)
