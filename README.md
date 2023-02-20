@@ -4,7 +4,7 @@ Transform two `Micro:bit` cards into a platform for rock paper scissors.
 
 ## Setup
 
-- Open each python files on a different computers in a compatible code editor (`Thonny` or ``MuPython`).
+- Open each python files two different computers in a compatible code editor (`Thonny` or `MuPython`).
 - On `Thonny`, go to `Options` > change the python interpreter to `MicroPython (BBC micro:bit)`.
 - Connect a `Micro:Bit` card to each computer.
 
